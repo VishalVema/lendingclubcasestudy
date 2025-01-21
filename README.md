@@ -1,4 +1,4 @@
-# Loan Risk EDA Analytics 
+# Lending Club Case Study 
 > Provide actionable insights into loan default patterns and risk mitigation strategies.
 
 ## Table of Contents
